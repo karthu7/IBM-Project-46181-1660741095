@@ -19,4 +19,5 @@ while (i<=1440):
         print(humid,"the humidity is normal")
     else:
         print(humid,"the humidity is high")
+        
 
